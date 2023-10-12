@@ -15,7 +15,6 @@ p {
   text-align: center;
 }
 .assign {
-  display: flex;
   padding: 10px;
   margin: 10px;
   background: WhiteSmoke;
