@@ -1,1 +1,19 @@
-
+body {
+  background: LightSlateGray;
+  font-family: sans-serif;
+}
+h1{
+  color: PaleGoldenRod;
+  text-align: center;
+}
+.assign{
+  display: flex;
+  padding: 10;
+  margin: 10;
+  background: WhiteSmoke;
+}
+.assign img{
+  width: 200;
+  padding: 10;
+}
+  
