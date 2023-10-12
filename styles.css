@@ -7,7 +7,7 @@ h1{
   text-align: center;
 }
 .assign{
-  display: flex;
+  display: space-evenly;
   padding: 10;
   margin: 10;
   background: WhiteSmoke;
