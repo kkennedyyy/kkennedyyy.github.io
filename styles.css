@@ -16,11 +16,9 @@ p {
 }
 .assign {
   display: flex;
-  roundness:20px;
   padding: 20pk;
   margin: 10px;
   background: WhiteSmoke;
-  border-radius: 20px;
 }
 .assign img{
   width: 200px;
