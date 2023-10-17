@@ -17,7 +17,7 @@ p {
 .assign {
   display: flex;
   roundness:20px;
-  padding: 1em;
+  padding: 20pk;
   margin: 10px;
   background: WhiteSmoke;
 }
