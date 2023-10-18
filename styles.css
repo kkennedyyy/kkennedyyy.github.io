@@ -17,10 +17,10 @@ p {
 }
 .assign {
   display: flex;
+  justify-content: center;
   padding: 20px;
   margin: 10px;
   background: WhiteSmoke;
-  justify-content: center;
 }
 .assign img{
   width: 200px;
