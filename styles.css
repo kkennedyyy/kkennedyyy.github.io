@@ -1,6 +1,7 @@
 body {
   background: LightSlateGray;
   font-family: sans-serif;
+  text-align: center;
 }
 h1{
   color: black;
@@ -19,6 +20,7 @@ p {
   padding: 20px;
   margin: 10px;
   background: WhiteSmoke;
+  justify-content: center;
 }
 .assign img{
   width: 200px;
