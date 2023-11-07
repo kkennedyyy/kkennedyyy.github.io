@@ -26,7 +26,8 @@ p {
 .assign img{
   width: 200px;
   padding: 10px;
-  border: 2px solid brown;
+  border: 2px
+  border-color: brown;
 }
 a{
   text-decoration: none;
