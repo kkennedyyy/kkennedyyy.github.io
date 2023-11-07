@@ -25,5 +25,11 @@ p {
 .assign img{
   width: 200px;
   padding: 10px;
+  border: 2px solid brown;
 }
+a{
+  text-decoration: none;
+  color: black; 
+}
+  
   
