@@ -1,5 +1,5 @@
 body {
-  background: LightSlateGray;
+  background: #5C4F46;
   font-family: sans-serif;
   text-align: center;
 }
@@ -20,7 +20,7 @@ p {
   justify-content: center;
   padding: 20px;
   margin: 10px;
-  background: WhiteSmoke;
+  background: #508086;
   border-radius: 20px;
 }
 .assign img{
