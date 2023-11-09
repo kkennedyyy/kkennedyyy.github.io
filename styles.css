@@ -1,10 +1,10 @@
 body {
-  background: #5C4F46;
+  background: #5c4f46;
   font-family: sans-serif;
   text-align: center;
 }
 h1{
-  color: #E0CD80;
+  color: #e0cd80;
   text-align: center;
   font-family: sans-serif;
 
@@ -15,7 +15,7 @@ h2{
 }
 
 p {
-  color: #E0CD80;
+  color: #e0cd80;
   text-align: center;
   font-family: sans-serif;
 
@@ -37,7 +37,7 @@ p {
 }
 a{
   text-decoration: none;
-  color: #E0CD80;
+  color: #e0cd80;
 }
 a:hover{
   text-decoration: none; 
