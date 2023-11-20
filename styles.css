@@ -49,13 +49,13 @@ p {
 .assign img{
   width: 200px;
   margin: 10px;  
-  border: 3px solid brown;
+  border: 3px solid saddle brown;
   border-radius: 20px;
 }
 .assign img:hover {
  width: 200px;
  margin: 10px;
- border: 2px dotted yellow;
+ border: 2px dotted beige;
 }
 
 
