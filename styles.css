@@ -2,13 +2,22 @@ body {
   background: #5c4f46;
   font-family: sans-serif;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
 }
 h1{
   color: #e0cd80;
   text-align: center;
   font-family: sans-serif;
+  width: 100%;
+  display: block;
 
 }
+h1:hover {
+ color: beige;
+ text-align: center;
+ width: 100%;
+ display: block
 h2{
     text-align: center;
     font-family: sans-serif;
@@ -22,12 +31,14 @@ p {
 
 }
 .assign {
-  display: flex;
+  display: block;
   justify-content: center;
   padding: 20px;
   margin: 10px;
   background: #508086;
   border-radius: 20px;
+  width:20%;
+  box-shadow: 8px 8px [#e0cd80];
 }
 .assign img{
   width: 200px;
