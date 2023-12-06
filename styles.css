@@ -13,6 +13,11 @@ h1{
   display: block;
 
 }
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    color: #e0cd80;
+}
 h2:hover {
  color: gray;
  text-align: center;
@@ -24,12 +29,6 @@ a{
   color: #e0cd80;
 
 }
-h2{
-    text-align: center;
-    font-family: sans-serif;
-    color: #e0cd80;
-}
-
 p {
   color: #e0cd80;
   text-align: center;
