@@ -13,7 +13,7 @@ h1{
   display: block;
 
 }
-h1:hover {
+h2:hover {
  color: gray;
  text-align: center;
  width: 100%;
